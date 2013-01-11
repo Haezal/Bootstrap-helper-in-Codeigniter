@@ -1,5 +1,12 @@
 Bootstrap-helper-in-Codeigniter
 ===============================
+
+
+Muat turun fail MY_form_helper.php dan MY_html_helper.php dan masukkan ke dalam folder application/helpers/
+
+Ianya akan di load secara auto oleh CodeIgniter
+
+
 <code>
 // in view file
 
