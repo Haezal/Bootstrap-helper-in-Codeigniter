@@ -1,20 +1,12 @@
 Bootstrap-helper-in-Codeigniter
 ===============================
-
+<code>
 // in view file
 
 <?php echo tbs_horizontal_form_open() ?>
 
 
-/*
-below code will create 
-<div class="control-group">
-  <label>Any Name</label>
-  <div class="controls">
-    <?php echo form_input('name') ?>
-  </div>
-</div>
-*/
+
 
 <?php echo tbs_horizontal_input(
     array(
@@ -28,3 +20,4 @@ below code will create
 )?>
 
 <?php echo tbs_form_close() ?>
+</code>
