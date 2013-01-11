@@ -1,7 +1,7 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 
-// created by haezal musa 
+
 // ============================================================================
 
 
